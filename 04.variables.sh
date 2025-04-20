@@ -15,7 +15,7 @@ echo "$NAME01: I am fine $NAME02"
 
 NAME01=Aadarsh
 NAME02=Bindhu
-echo "Conversation between Aadarsh & Bindhu"
+echo "Conversation between Aadarsh & BindhuMadhavi"
 echo "${NAME01}: Hi ${NAME02}, How are you?"
 echo "${NAME02}: Hello ${NAME01}, I am doing good! How are you?"
 echo "${NAME01}: I am fine... ${NAME02}"
