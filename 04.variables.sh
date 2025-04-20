@@ -5,17 +5,17 @@
 #Var names are not mandatory to give capital we can give lower case as well.......
 
 NAME01=Aadarsh
-NAME02=bhuvan
+NAME02=BindhuMadhavi
 
 #Two ways to access Variables, $varname i.e, $NAME01 or ${NAME01}.......
-echo "Conversation between Rohit & Ravi"
+echo "Conversation between Aadarsh & BndhuMadhavi"
 echo "$NAME01: Hi $NAME02, How are you?"
 echo "$NAME02: Hello $NAME01, I am doing good! How are you?"
 echo "$NAME01: I am fine $NAME02"
 
 NAME01=Aadarsh
 NAME02=Bindhu
-echo "Conversation between Ramesh & Suresh"
+echo "Conversation between Aadarsh & Bindhu"
 echo "${NAME01}: Hi ${NAME02}, How are you?"
 echo "${NAME02}: Hello ${NAME01}, I am doing good! How are you?"
 echo "${NAME01}: I am fine... ${NAME02}"
