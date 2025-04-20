@@ -2,4 +2,4 @@
 
 echo "Hello World"
 
-#Command t o run the script: sh 01.hello_world.sh
+#Command to run the script: sh 01.hello_world.sh
